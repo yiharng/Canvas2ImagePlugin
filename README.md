@@ -40,7 +40,7 @@ function onDeviceReady() {
 		document.getElementById("myCanvas"),// You can also use base64 strings 
 		"jpeg" ,// format is optional, defaults to 'png'
 		"[directory]" ,// [directory] is optional, The file will be stored in /storage/emulated/0/Pictures/[directory] 
-		"[file name]" ,// [file name] is optional,
+		"[file name]"  // [file name] is optional,
 	);
 }
 ```
